@@ -10,7 +10,7 @@ In order to get going with the tool, we need to take the following steps:
 
 Clone this repository using the `git clone` command:
 
-`git clone https://github.com/amirzur2023/smartstem-tool.git`
+`git clone https://github.com/amirzur2023/smartstem-terminal.git`
 
 Then go into the `smartstem-tool` repository to get started!
 
